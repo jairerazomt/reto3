@@ -57,7 +57,7 @@ public class Audience implements Serializable{
         return owner;
     }
 
-    public void setOwner(String brand) {
+    public void setOwner(String owner) {
         this.owner = owner;
     }
 
